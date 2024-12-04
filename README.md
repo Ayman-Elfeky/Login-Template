@@ -34,6 +34,6 @@ A simple and responsive login form that validates user input. This project showc
 - **JavaScript**: Input validation and error handling.
 
 ## How to View
-1. Clone this repository:
+- Clone this repository:
    ```bash
    git clone https://github.com/Ayman-Elfeky/Login-Template.git
